@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    android:paddingTop="100dp">
+    android:paddingTop="100dp"
+    android:background="@drawable/background">
 
     <ImageView
         android:id="@+id/characterImageView"

@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/idle0" android:duration="100"/>
-    <item android:drawable="@drawable/idle1" android:duration="100"/>
-    <item android:drawable="@drawable/idle2" android:duration="100"/>
-    <item android:drawable="@drawable/idle3" android:duration="100"/>
-    <item android:drawable="@drawable/idle4" android:duration="100"/>
-    <item android:drawable="@drawable/idle5" android:duration="100"/>
-    <item android:drawable="@drawable/idle6" android:duration="100"/>
-    <item android:drawable="@drawable/idle7" android:duration="100"/>
-    <item android:drawable="@drawable/idle8" android:duration="100"/>
-    <item android:drawable="@drawable/idle9" android:duration="100"/>
+    <item android:drawable="@drawable/idle1" android:duration="70"/>
+    <item android:drawable="@drawable/idle2" android:duration="70"/>
+    <item android:drawable="@drawable/idle3" android:duration="70"/>
+    <item android:drawable="@drawable/idle4" android:duration="70"/>
+    <item android:drawable="@drawable/idle5" android:duration="70"/>
+    <item android:drawable="@drawable/idle6" android:duration="70"/>
+    <item android:drawable="@drawable/idle7" android:duration="70"/>
+    <item android:drawable="@drawable/idle8" android:duration="70"/>
+    <item android:drawable="@drawable/idle9" android:duration="70"/>
+    <item android:drawable="@drawable/idle10" android:duration="70"/>
+    <item android:drawable="@drawable/idle11" android:duration="70"/>
+    <item android:drawable="@drawable/idle12" android:duration="70"/>
+    <item android:drawable="@drawable/idle13" android:duration="70"/>
+    <item android:drawable="@drawable/idle14" android:duration="70"/>
+    <item android:drawable="@drawable/idle15" android:duration="70"/>
+    <item android:drawable="@drawable/idle16" android:duration="70"/>
+    <item android:drawable="@drawable/idle17" android:duration="70"/>
+    <item android:drawable="@drawable/idle18" android:duration="70"/>
+    <item android:drawable="@drawable/idle19" android:duration="70"/>
+    <item android:drawable="@drawable/idle20" android:duration="70"/>
 </animation-list>

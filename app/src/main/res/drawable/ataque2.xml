@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/throw0" android:duration="100"/>
-    <item android:drawable="@drawable/throw1" android:duration="100"/>
-    <item android:drawable="@drawable/throw2" android:duration="100"/>
-    <item android:drawable="@drawable/throw3" android:duration="100"/>
-    <item android:drawable="@drawable/throw4" android:duration="100"/>
-    <item android:drawable="@drawable/throw5" android:duration="100"/>
-    <item android:drawable="@drawable/throw6" android:duration="100"/>
-    <item android:drawable="@drawable/throw7" android:duration="100"/>
-    <item android:drawable="@drawable/throw8" android:duration="100"/>
-    <item android:drawable="@drawable/throw9" android:duration="100"/>
+    <item android:drawable="@drawable/attack6" android:duration="75"/>
+    <item android:drawable="@drawable/attack7" android:duration="75"/>
+    <item android:drawable="@drawable/attack8" android:duration="75"/>
+    <item android:drawable="@drawable/attack9" android:duration="75"/>
+    <item android:drawable="@drawable/attack10" android:duration="75"/>
+    <item android:drawable="@drawable/attack11" android:duration="75"/>
+    <item android:drawable="@drawable/attack12" android:duration="75"/>
+    <item android:drawable="@drawable/attack13" android:duration="75"/>
+    <item android:drawable="@drawable/attack14" android:duration="75"/>
+    <item android:drawable="@drawable/attack15" android:duration="75"/>
 
 </animation-list>
